@@ -90,6 +90,9 @@ body{
     cursor: pointer;
     transition: all 0.5s ease-in-out;
 }
+.icons li a i.fa-facebook {
+    color: blue;
+}
 .icons li:hover{
     background: #edffec;
     color: #000;
